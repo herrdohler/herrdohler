@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hello, there! <img src="https://i.imgur.com/Mo5L7Wc.gif" alt="Lightsaber Emoji" width="40" height="40">
 
-<!--
-**herrdohler/herrdohler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Linguist](https://img.shields.io/badge/-Linguist-blue)  
+![EdTech Specialist](https://img.shields.io/badge/-EdTech%20Specialist-green)  
+![QA Engineer](https://img.shields.io/badge/-QA%20%26%20E2E%20Testing-orange)  
+![Researcher](https://img.shields.io/badge/-Researcher-purple)  
 
-Here are some ideas to get you started:
+### 💡 Linguist | Researcher | EdTech Specialist | QA Engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an **applied linguist, researcher, and educational technology specialist** with expertise in **language assessment, quality assurance, and data analysis**. My work focuses on **bridging language, education, and technology** to improve accessibility, testing, and learning methodologies.  
+
+### 🚀 What I Do  
+
+- **Researcher @ Federal University of Rio de Janeiro** – 3+ years of **data analysis and phonetic research** on North American English  
+- **EdTech & Language Assessment Expert** – Formerly at **Duolingo**, with experience in **language testing, QA, and educational content**  
+- **QA Engineer (3.5+ years experience)** – Specializing in **end-to-end (E2E) testing** and quality control  
+- **Web Development Enthusiast** – Learning **JavaScript & Python** and working on projects using **HTML, CSS, and JavaScript**  
+- **Consultant & Translator** – Founder of **Arthur Döhler Consultoria**, focusing on **translation, curriculum writing, and linguistic consulting**  
+
+### 🔬 Research & Interests  
+
+- **Applied Linguistics & Phonetics** – Speech dynamics, language acquisition, and phonetic analysis  
+- **Education Technology** – Innovations in **language learning platforms and AI-driven assessment**  
+- **Data Analysis & QA** – Leveraging **Python, SQL, and Google Data tools** for **linguistic and educational insights**  
+- **Web Development** – Exploring **front-end development with JavaScript, HTML, and CSS**  
+
+### 📜 Publications & Portfolio  
+
+- 📂 **Research Portfolio**: [Arthur Döhler Research](https://sites.google.com/view/arthurdohler/home)  
+
+### 🛠️ Tech & Tools  
+
+- **Linguistics & Research:** SQL, Excel, Python (Pandas, Numpy, Matplotlib)  
+- **QA & Automation:** Selenium, Cypress, Jira, Confluence, Manual Validation  
+- **Web Development:** HTML, CSS, JavaScript (learning)  
+- **Data Analysis & Visualization:** SQL, Python, Google Data Studio  
+
+<div>
+<a href="https://github.com/herrdohler">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herrdohler&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=herrdohler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+### 🏆 Certifications  
+
+- 📊 **Google Data Analytics**  
+- 📋 **Google Project Management**  
+
+### 🎮 In My Free Time  
+
+- **Gaming Enthusiast 🎮** – Trophy hunter on PS5 (75+ platinum trophies 🏆)  
+- **Animal Advocate 🐱** – Actively working on legislative initiatives for animal rights  
+- **Lifelong Learner 📚** – Studying new languages, AI, and web development
+---
+
+### 📫 Get in Touch  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdohler)  
+[![Research](https://img.shields.io/badge/-Research%20Portfolio-orange)](https://sites.google.com/view/arthurdohler/home)  
