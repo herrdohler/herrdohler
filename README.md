@@ -12,7 +12,7 @@ I'm an **applied linguist, researcher, and educational technology specialist** w
 ### 🚀 What I Do  
 
 - **EdTech Lead** - I currently hold the position of Educational Technology Coordinator at the **Salesianos school network**, a globally recognized Catholic educational institution with a strong presence in Latin America, Europe, and other regions. In this role, I lead the implementation of **digital learning strategies, oversee technology integration in the classroom, and provide training for educators to enhance student engagement and academic outcomes**.
-- **Researcher @ Federal University of Rio de Janeiro** – 3+ years of **data analysis and phonetic research** on North American English  
+- **Researcher at Federal University of Rio de Janeiro** – 3+ years of **data analysis and phonetic research** on North American English  
 - **EdTech & Language Assessment Expert** – Formerly at **Duolingo**, with experience in **language testing, QA, and educational content**  
 - **QA Engineer (3.5+ years experience)** – Specializing in **end-to-end (E2E) testing** and quality control  
 - **Web Development Enthusiast** – Learning **JavaScript & Python** and working on projects using **HTML, CSS, and JavaScript**  
