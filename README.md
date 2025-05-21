@@ -1,9 +1,12 @@
 ## Hello, there! <img src="https://i.imgur.com/Mo5L7Wc.gif" alt="Lightsaber Emoji" width="40" height="40">
 
-![Linguist](https://img.shields.io/badge/-Linguist-blue)  
-![EdTech Specialist](https://img.shields.io/badge/-EdTech%20Specialist-green)  
-![QA Engineer](https://img.shields.io/badge/-QA%20%26%20E2E%20Testing-orange)  
-![Researcher](https://img.shields.io/badge/-Researcher-purple)  
+![Linguist](https://img.shields.io/badge/Linguist-1E90FF?style=flat-square&color=1E90FF)
+![QA & E2E Testing](https://img.shields.io/badge/QA_%26_E2E_Testing-FF8C00?style=flat-square&color=FF8C00)
+![Researcher](https://img.shields.io/badge/Researcher-800080?style=flat-square&color=800080)
+![Learning System Manager](https://img.shields.io/badge/Learning_System_Manager-4682B4?style=flat-square&color=4682B4)
+![EdTech Lead](https://img.shields.io/badge/EdTech_Lead-32CD32?style=flat-square&color=32CD32)
+
+
 
 ### 💡 Linguist | Researcher | EdTech Specialist | QA Engineer  
 
