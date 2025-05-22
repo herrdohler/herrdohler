@@ -3,7 +3,7 @@
 ![Linguist](https://img.shields.io/badge/Linguist-007acc?style=flat&logoColor=white)
 ![QA & E2E Testing](https://img.shields.io/badge/QA%20&%20E2E%20Testing-ff8800?style=flat&logoColor=white)
 ![Researcher](https://img.shields.io/badge/Researcher-800080?style=flat&logoColor=white)
-![Learning System Manager](https://img.shields.io/badge/Learning%20System%20Manager-00bfff?style=flat&logoColor=white)
+![Learning Technology Manager](https://img.shields.io/badge/Learning%20System%20Manager-00bfff?style=flat&logoColor=white)
 ![EdTech Lead](https://img.shields.io/badge/EdTech%20Lead-32cd32?style=flat&logoColor=white)
 
 ### 💡 Linguist | Researcher | EdTech Specialist | QA Engineer  
