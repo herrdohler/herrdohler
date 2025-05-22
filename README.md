@@ -24,7 +24,7 @@ I'm an **applied linguist, researcher, and educational technology specialist** w
 - **Applied Linguistics & Phonetics** – Speech dynamics, language acquisition, and phonetic analysis  
 - **Education Technology** – Innovations in **language learning platforms and AI-driven assessment**  
 - **Data Analysis & QA** – Leveraging **Python, SQL, and Google Data tools** for **linguistic and educational insights**  
-- **Web Development** – Exploring **front-end development with JavaScript, HTML, and CSS**  
+- **Web Development** – Exploring **front-end development with JavaScript, HTML, SQL, and CSS**  
 
 ### 📜 Publications & Portfolio  
 
