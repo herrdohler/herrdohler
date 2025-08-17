@@ -1,4 +1,4 @@
-## Hello, there! <img src="https://i.imgur.com/Mo5L7Wc.gif" alt="Lightsaber Emoji" width="40" height="40">
+# Hello, there! <img src="https://i.imgur.com/Mo5L7Wc.gif" alt="Lightsaber Emoji" width="40" height="40">
 
 ![Linguist](https://img.shields.io/badge/Linguist-007acc?style=flat&logoColor=white)
 ![QA & E2E Testing](https://img.shields.io/badge/QA%20&%20E2E%20Testing-ff8800?style=flat&logoColor=white)
@@ -6,36 +6,36 @@
 ![Learning Technology Manager](https://img.shields.io/badge/Learning%20Technology%20Manager-00bfff?style=flat&logoColor=white)
 ![EdTech Lead](https://img.shields.io/badge/EdTech%20Lead-32cd32?style=flat&logoColor=white)
 
-### 💡 Linguist | Researcher | EdTech Specialist | QA Engineer  
+## 💡 Linguist | Researcher | EdTech Lead | QA Specialist 
 
-I'm an **applied linguist, researcher, and educational technology specialist** with expertise in **language assessment, quality assurance, and data analysis**. My work focuses on **bridging language, education, and technology** to improve accessibility, testing, and learning methodologies.  
+I’m an applied linguist, researcher, and educational technology lead with expertise in language assessment, QA, and data-driven learning technologies. My trajectory bridges linguistics and technology, focusing on accessibility, testing, and innovation in education.
 
-### 🚀 What I Do  
+### 🚀 Experience & Projects
 
-- **EdTech Lead** - I currently serve as the **Learning Technology Manager** at the **Salesianos School Network**, a globally recognized Catholic educational institution with a strong presence in Latin America, Europe, and other regions. In this role, **I lead the implementation of digital learning strategies, oversee technology integration in the classroom, and train educators to enhance student engagement and academic outcomes**.
-- **Researcher at the Federal University of Rio de Janeiro** – 3+ years of **data analysis and phonetic research** on North American English  
-- **EdTech & Language Assessment Expert** – Formerly at **Duolingo**, with experience in **language testing, QA, and educational content**  
-- **QA Engineer (3.5+ years experience)** – Specializing in **end-to-end (E2E) testing** and quality control  
-- **Web Development Enthusiast** – Learning **JavaScript & Python** and working on projects using **HTML, CSS, and JavaScript**  
-- **Consultant & Translator** – Founder of **Arthur Döhler Consultoria**, focusing on **translation, curriculum writing, and linguistic consulting**  
+**EdTech Leadership** – Led strategic projects in digital learning integration, dashboards in Looker Studio, database management (MySQL, SQL), and training initiatives in one of the largest school networks in Latin America.
 
-### 🔬 Research & Interests  
+**Researcher at the Federal University of Rio de Janeiro (UFRJ)** – 3+ years of phonetic research and data analysis on North American English.
 
-- **Applied Linguistics & Phonetics** – Speech dynamics, language acquisition, and phonetic analysis  
-- **Education Technology** – Innovations in **language learning platforms and AI-driven assessment**  
-- **Data Analysis & QA** – Leveraging **Python, SQL, and Google Data tools** for **linguistic and educational insights**  
-- **Web Development** – Exploring **front-end development with JavaScript, HTML, SQL, and CSS**  
+**Language Assessment & QA** – Former Duolingo QA Specialist, validating English proficiency tests and ensuring global compliance.
 
-### 📜 Publications & Portfolio  
+**Python Projects** – Developed educational scripts such as an automated attendance tracker with timestamp logging.
 
-- 📂 **Research Portfolio**: [Arthur Döhler Research](https://sites.google.com/view/arthurdohler/home)  
+**Training & Onboarding** – Designed and delivered corporate-style training for educators and staff, focusing on digital platforms and process optimization.
 
-### 🛠️ Tech & Tools  
+### 🔬 Research & Interests
 
-- **Linguistics & Research:** SQL, Excel, Python (Pandas, Numpy, Matplotlib)  
-- **QA & Automation:** Selenium, Cypress, Jira, Confluence, Manual Validation  
-- **Web Development:** HTML, CSS, JavaScript (learning)  
-- **Data Analysis & Visualization:** SQL, Python, Google Data Studio  
+Applied Linguistics & Phonetics – Speech dynamics, acquisition, and computational linguistics.
+
+Education Technology – AI-driven assessment, digital transformation, and curriculum-integrated platforms.
+
+Data & QA – Leveraging Python, SQL, and visualization tools for educational and linguistic insights.
+
+### 🛠️ Tech Stack
+
+**Data & Research:** MySQL, SQL, Python (Pandas, Matplotlib), Google Sheets, Looker Studio, Tableau
+**QA & Automation:** Cypress, Selenium, Jira, Confluence, Manual Validation
+**EdTech & Collaboration:** Microsoft Teams, Admin Center, TOTVS, Árvore, Edebê, Jovens Gênios
+**Web Development (Learning):** HTML, CSS, JavaScript
 
 <div>
 <a href="https://github.com/herrdohler">
