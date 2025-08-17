@@ -14,27 +14,30 @@ I’m an applied linguist, researcher, and educational technology lead with expe
 
 **EdTech Leadership** – Led strategic projects in digital learning integration, dashboards in Looker Studio, database management (MySQL, SQL), and training initiatives in one of the largest school networks in Latin America.
 
-**Researcher at the Federal University of Rio de Janeiro (UFRJ)** – 3+ years of phonetic research and data analysis on North American English.
+- **Researcher at the Federal University of Rio de Janeiro (UFRJ)** – 3+ years of phonetic research and data analysis on North American English.
 
-**Language Assessment & QA** – Former Duolingo QA Specialist, validating English proficiency tests and ensuring global compliance.
+- **Language Assessment & QA** – Former Duolingo QA Specialist, validating English proficiency tests and ensuring global compliance.
 
-**Python Projects** – Developed educational scripts such as an automated attendance tracker with timestamp logging.
+- **Python Projects** – Developed educational scripts such as an automated attendance tracker with timestamp logging.
 
-**Training & Onboarding** – Designed and delivered corporate-style training for educators and staff, focusing on digital platforms and process optimization.
+- **Training & Onboarding** – Designed and delivered corporate-style training for educators and staff, focusing on digital platforms and process optimization.
 
 ### 🔬 Research & Interests
 
-Applied Linguistics & Phonetics – Speech dynamics, acquisition, and computational linguistics.
+**1. Applied Linguistics & Phonetics** – Speech dynamics, acquisition, and computational linguistics.
 
-Education Technology – AI-driven assessment, digital transformation, and curriculum-integrated platforms.
+**2. Education Technology** – AI-driven assessment, digital transformation, and curriculum-integrated platforms.
 
-Data & QA – Leveraging Python, SQL, and visualization tools for educational and linguistic insights.
+**3. Data & QA** – Leveraging Python, SQL, and visualization tools for educational and linguistic insights.
 
 ### 🛠️ Tech Stack
 
 **Data & Research:** MySQL, SQL, Python (Pandas, Matplotlib), Google Sheets, Looker Studio, Tableau
+
 **QA & Automation:** Cypress, Selenium, Jira, Confluence, Manual Validation
+
 **EdTech & Collaboration:** Microsoft Teams, Admin Center, TOTVS, Árvore, Edebê, Jovens Gênios
+
 **Web Development (Learning):** HTML, CSS, JavaScript
 
 <div>
